@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xolmatravshanov
+- 👋 Hi, I’m Xolmat Ravshanov
 - 👀 I’m interested in AI, JS, PHP
 - 🌱 I’m currently learning networking, cyber security, algorithms
 - 📫 How to reach me xolmatrw@gmail.com 
